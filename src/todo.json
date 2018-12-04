@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "title" : "Task1",
+            "responsible" : "Elias",
+            "description" : "prueba 1",
+            "priority" : "Low"
+        },
+        {
+            "title" : "Task2",
+            "responsible" : "YunYoung",
+            "description" : "prueba 2",
+            "priority" : "Medium"
+        },
+        {
+            "title" : "Task3",
+            "responsible" : "Emmanuel",
+            "description" : "prueba 3",
+            "priority" : "High"
+        },
+        {
+            "title" : "Task4",
+            "responsible" : "Susana",
+            "description" : "prueba 4",
+            "priority" : "High"
+        }
+    ]
+}
